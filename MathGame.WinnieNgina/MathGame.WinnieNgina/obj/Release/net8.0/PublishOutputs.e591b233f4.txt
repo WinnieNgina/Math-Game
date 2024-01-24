@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\MathGame Publication\MathGame.WinnieNgina.exe
+C:\Users\user\Desktop\MathGame Publication\MathGame.WinnieNgina.dll
+C:\Users\user\Desktop\MathGame Publication\MathGame.WinnieNgina.deps.json
+C:\Users\user\Desktop\MathGame Publication\MathGame.WinnieNgina.runtimeconfig.json
+C:\Users\user\Desktop\MathGame Publication\MathGame.WinnieNgina.pdb

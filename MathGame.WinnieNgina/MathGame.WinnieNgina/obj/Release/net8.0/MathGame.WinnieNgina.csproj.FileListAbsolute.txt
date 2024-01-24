@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\bin\Release\net8.0\MathGame.WinnieNgina.exe
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\bin\Release\net8.0\MathGame.WinnieNgina.deps.json
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\bin\Release\net8.0\MathGame.WinnieNgina.runtimeconfig.json
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\bin\Release\net8.0\MathGame.WinnieNgina.dll
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\bin\Release\net8.0\MathGame.WinnieNgina.pdb
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.AssemblyInfo.cs
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.dll
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\refint\MathGame.WinnieNgina.dll
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.pdb
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\MathGame.WinnieNgina.genruntimeconfig.cache
+C:\Users\user\Desktop\MathGame.WinnieNgina\MathGame.WinnieNgina\obj\Release\net8.0\ref\MathGame.WinnieNgina.dll
